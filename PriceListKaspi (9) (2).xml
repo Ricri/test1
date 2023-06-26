@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="string">
+    <company>Тритекс</company>
+    <merchantid>8475022</merchantid>
+    <offers>
+        <offer sku="4601743194115">
+            <model>Гамма С141 к/д (10)</model>
+            <brand>ОАО &amp;quotГамма&amp;quot</brand>
+            <availabilities>
+                <availability storeId="PP1" available="yes" />
+            </availabilities>
+            <price>1265</price>
+        </offer>
+    </offers>
+</kaspi_catalog>
