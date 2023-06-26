@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="string">
+	<company>ОАО Спайс Х</company>
+	<merchantid>132132321</merchantid>
+	<offers>
+		<offer sku="4690650007465">
+			<model>Борисоглебск 8С16 н/д (20-22)</model>
+			<brand>ОАО "Борисоглебский трикотаж"</brand>
+			<availabilities>
+				<availability storeId="PP2" available="no"/>
+			</availabilities>
+			<price>552</price>
+		</offer>
+	</offers>
+</kaspi_catalog>
